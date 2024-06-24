@@ -6,4 +6,6 @@ The assignments were big enough to be considered as a full fledged project. This
 Developed TCP socket servers in C/C++ utilizing I/O multiplexing techniques (select, poll, epoll) to benchmark synchronous
 and asynchronous server performance on Linux.
 
-![Thread_Epoll500](assignment3\Throughout\thr_epoll500.png)
+![Epoll500](https://github.com/UtsvGrg/Computer_Networks/blob/main/assignment3/Throughput/thr_epoll500.png)
+![Poll500](https://github.com/UtsvGrg/Computer_Networks/blob/main/assignment3/Throughput/thr_poll500.png)
+
