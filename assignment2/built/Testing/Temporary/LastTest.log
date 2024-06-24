@@ -1,0 +1,78 @@
+Start testing: Sep 11 18:37 IST
+----------------------------------------------------------
+5/23 Testing: byte_stream_construction
+5/23 Test: byte_stream_construction
+Command: "/home/user/Desktop/assignment2/built/tests/byte_stream_construction"
+Directory: /home/user/Desktop/assignment2/built/tests
+"byte_stream_construction" start time: Sep 11 18:37 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_construction" end time: Sep 11 18:37 IST
+"byte_stream_construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/23 Testing: byte_stream_one_write
+6/23 Test: byte_stream_one_write
+Command: "/home/user/Desktop/assignment2/built/tests/byte_stream_one_write"
+Directory: /home/user/Desktop/assignment2/built/tests
+"byte_stream_one_write" start time: Sep 11 18:37 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_one_write" end time: Sep 11 18:37 IST
+"byte_stream_one_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/23 Testing: byte_stream_two_writes
+7/23 Test: byte_stream_two_writes
+Command: "/home/user/Desktop/assignment2/built/tests/byte_stream_two_writes"
+Directory: /home/user/Desktop/assignment2/built/tests
+"byte_stream_two_writes" start time: Sep 11 18:37 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_two_writes" end time: Sep 11 18:37 IST
+"byte_stream_two_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/23 Testing: byte_stream_capacity
+8/23 Test: byte_stream_capacity
+Command: "/home/user/Desktop/assignment2/built/tests/byte_stream_capacity"
+Directory: /home/user/Desktop/assignment2/built/tests
+"byte_stream_capacity" start time: Sep 11 18:37 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   2.37 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_capacity" end time: Sep 11 18:37 IST
+"byte_stream_capacity" time elapsed: 00:00:02
+----------------------------------------------------------
+
+9/23 Testing: byte_stream_many_writes
+9/23 Test: byte_stream_many_writes
+Command: "/home/user/Desktop/assignment2/built/tests/byte_stream_many_writes"
+Directory: /home/user/Desktop/assignment2/built/tests
+"byte_stream_many_writes" start time: Sep 11 18:37 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_many_writes" end time: Sep 11 18:37 IST
+"byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 11 18:37 IST
