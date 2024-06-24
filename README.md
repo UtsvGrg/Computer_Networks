@@ -7,9 +7,17 @@ Developed TCP socket servers in C/C++ utilizing I/O multiplexing techniques (sel
 and asynchronous server performance on Linux.
 
 ![Epoll3000](https://github.com/UtsvGrg/Computer_Networks/blob/main/assignment3/Throughput/thr_epoll3000.png)
+## Epoll - 3000
+
 ![Poll3000](https://github.com/UtsvGrg/Computer_Networks/blob/main/assignment3/Throughput/thr_poll3000.png)
+## Poll - 3000
+
 ![Select3000](https://github.com/UtsvGrg/Computer_Networks/blob/main/assignment3/Throughput/thr_select3000.png)
+## Select - 3000
+
 ![Thread3000](https://github.com/UtsvGrg/Computer_Networks/blob/main/assignment3/Throughput/thr_thread3000.png)
+## Thread - 3000
+
 
 
 
